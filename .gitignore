@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+weather_history.json
+activity_plans.json
+favourite_locations.json
+
+.env
